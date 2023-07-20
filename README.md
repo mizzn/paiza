@@ -1,6 +1,6 @@
 paizaの問題集は回答の公開OKらしい.
 解くだけももったいないので記念にあげていこうかな.
-ここがコードでいっぱいになったらやった感あって嬉しい.
+ここがコードでいっぱいになったらやった感あって嬉しい. <br>
 [README.mdの書き方](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # stack-queue
